@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.dropzone {
+  border: 2px dotted gray;
+  background-color: azure;
+  height: 300px;
+  width: 80%;
+  margin: 16px 32px;
+}
+.selected-images {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  margin: 16px;
+  background-color: antiquewhite;
+}
